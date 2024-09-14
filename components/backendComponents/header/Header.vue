@@ -114,7 +114,7 @@ const signOut = () => {
         <!-- ---------------------------------------------- -->
         <v-btn icon class="mx-3">
           <v-avatar size="35">
-            <img src="/images/users/samitk.jpg" width="35" alt="Samit" />
+            <img src="/images/users/dang.png" width="35" alt="Samit" />
           </v-avatar>
 
           <v-menu activator="parent">
@@ -122,7 +122,7 @@ const signOut = () => {
               <h4 class="font-weight-medium fs-18">โปรไฟล์ของฉัน</h4>
               <div class="d-flex align-center my-4">
                 <img
-                  src="/images/users/samitk.jpg"
+                  src="/images/users/dang.png"
                   alt="Samit Koyom"
                   class="rounded-circle"
                   width="90"

@@ -14,11 +14,11 @@ const sidebarMenu = ref(sidebarItems)
       <div class="profile">
         <div class="profile-pic">
           <v-avatar size="80">
-            <img src="/images/users/samitk.jpg" width="80" alt="Samit" />
+            <img src="/images/users/dang.png" width="80" alt="Samit" />
           </v-avatar>
         </div>
         <div class="profile-name">
-          <h5>Samit Koyom</h5>
+          <h5>Wisarut Saelao</h5>
         </div>
       </div>
       <v-list class="pa-4">

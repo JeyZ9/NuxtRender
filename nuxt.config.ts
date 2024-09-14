@@ -61,7 +61,7 @@ export default defineNuxtConfig({
         },
         {
           name: 'author',
-          content: "IT Genius Engineering Ltd., Thailand"
+          content: "Wisarut"
         },
       ]
     }
